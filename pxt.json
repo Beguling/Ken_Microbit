@@ -1,5 +1,5 @@
 {
-    "name": "Test_microbir",
+    "name": "Test_microbit",
     "description": "",
     "dependencies": {
         "core": "*",
